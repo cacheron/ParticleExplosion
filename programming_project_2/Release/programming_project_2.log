@@ -1,0 +1,30 @@
+﻿  acheronti_chaz_programming_project_2.cpp
+src\acheronti_chaz_programming_project_2.cpp(66): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+src\acheronti_chaz_programming_project_2.cpp(66): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+src\acheronti_chaz_programming_project_2.cpp(67): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+src\acheronti_chaz_programming_project_2.cpp(67): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+src\acheronti_chaz_programming_project_2.cpp(83): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+src\acheronti_chaz_programming_project_2.cpp(84): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+src\acheronti_chaz_programming_project_2.cpp(85): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+src\acheronti_chaz_programming_project_2.cpp(102): warning C4018: '<': signed/unsigned mismatch
+src\acheronti_chaz_programming_project_2.cpp(163): warning C4018: '<': signed/unsigned mismatch
+src\acheronti_chaz_programming_project_2.cpp(178): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+src\acheronti_chaz_programming_project_2.cpp(181): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+src\acheronti_chaz_programming_project_2.cpp(182): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+src\acheronti_chaz_programming_project_2.cpp(183): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+src\acheronti_chaz_programming_project_2.cpp(185): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+src\acheronti_chaz_programming_project_2.cpp(190): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+src\acheronti_chaz_programming_project_2.cpp(208): warning C4018: '<': signed/unsigned mismatch
+src\acheronti_chaz_programming_project_2.cpp(214): warning C4018: '<': signed/unsigned mismatch
+src\acheronti_chaz_programming_project_2.cpp(242): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+src\acheronti_chaz_programming_project_2.cpp(243): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+src\acheronti_chaz_programming_project_2.cpp(244): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+src\acheronti_chaz_programming_project_2.cpp(298): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+src\acheronti_chaz_programming_project_2.cpp(298): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+src\acheronti_chaz_programming_project_2.cpp(307): warning C4305: '+=': truncation from 'double' to 'float'
+  Generating code
+  6 of 73 functions ( 8.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  programming_project_2.vcxproj -> C:\Users\Chaz Acheronti\Desktop\Workspace\Programming\2018\CS 116B\programming_project_2\Release\programming_project_2.exe
